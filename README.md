@@ -1,12 +1,10 @@
-#Spotify Clone
+# Spotify Clone
 
-Objective:- To showcase the Front-End-Development Skills.
+## Objective:- To showcase the Front-End-Development Skills.
 
-Pre Requisite:-
-1.Microsoft Visual Studio Code
-2.Basic understanding of HTML and CSS
-3.Basic understanding of BootStrap
-4.Basic understanding of FOnt Awesome library
+## Skills used:- HTML, CSS, BootStrap, Font Awesome, SVG files.
 
-Skills used:- HTML, CSS, BootStrap, Font Awesome, SVG files
+# It is a static web page of spotify to show the designing skills.
+# Various cards are made hovering effects are applied on cards.
+
 
